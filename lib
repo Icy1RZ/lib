@@ -14,7 +14,7 @@ EngoThemes = {
         DarkTextColor = Color3.fromRGB(100, 100, 100),
         DarkContrast = Color3.fromRGB(4, 4, 22),
         LightContrast = Color3.fromRGB(15, 16, 41),
-        BackgroundGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(85, 85, 85)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(4, 4, 22))},
+        BackgroundGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(85, 85, 85)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(85, 85, 85))},
         Darkness = Color3.fromRGB(0, 0, 0),
     },
     Swamp = {
